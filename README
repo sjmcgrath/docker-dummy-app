@@ -1,0 +1,2 @@
+This is a dummy web app that responds with 200 on /healthcheck.
+Run npm install and then docker build.
